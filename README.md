@@ -30,10 +30,8 @@ To preserve the integrity of the full dataset, we pivoted back to Excel for flex
 * **Issue:** **908 Styles** (87% of the catalog) have sold fewer than 50 units in the last 12 months.
 * **Action Item:** A massive opportunity exists to liquidate slow-moving stock and free up capital for high-performing styles.
 
-## 💻 Tools Used
+## 💻 Tool Used
 * **Microsoft Excel:** Data Cleaning, Date Standardization, Anomaly Detection.
-* **Python (Jupyter Notebook):** Exploratory Data Analysis (EDA), Documentation.
-* **Pandas:** Data aggregation and Pivot Table replication.
 
 ---
 *Author: aTfure*
